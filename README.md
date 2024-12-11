@@ -1,4 +1,5 @@
 # portfolio
+<<<<<<< HEAD
 
 My portfolio project
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Flutter portfolio app
+>>>>>>> bacd6d916090b1c12a1a44b60728f62318b0c8a8
